@@ -39,6 +39,9 @@
 
 .time {
 	font-size: 3rem;
+	font-weight: 500;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+		'Lucida Sans', Arial, sans-serif;
 }
 
 .btn-container {
